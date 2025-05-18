@@ -90,7 +90,7 @@
       "startDate": "2022",
       "endDate": "",
       "summary": "Train industry representative about the basic of machine learning",
-      "highlights": ["Machine Learning Trainer"]
+      "highlights": []
     },
     {
       "organization": "Virtual Workshop: Focus Group Ddiscussion (FGD) Implementasi Penggunaan OviTrap Sebagai Salah Satu Monitoring DBD di Daerah Endemis",
@@ -100,7 +100,7 @@
       "startDate": "2022",
       "endDate": "",
       "summary": "Speak as the implementor of the IoT device and what the data insight gained",
-      "highlights": [""]
+      "highlights": []
     },
     {
       "organization": "SIK 2021 Workshop: Development of Autonomous Vehicles",
@@ -120,7 +120,7 @@
       "startDate": "2020",
       "endDate": "",
       "summary": "Create some hands-on code about AI for practitioner/field engineer",
-      "highlights": ["basic AI, object detection system, face recognition system"]
+      "highlights": ["AI Basic, object detection system, face recognition system"]
     }
   ],
   "education": [
@@ -133,9 +133,10 @@
       "startDate": "2019-09-02",
       "endDate": "2021-12-31",
       "score": "3.83/4.00",
-      "highlights": "Master Thesis: 'Design of Autonomous Vehicles Decision Making Algorithm on Egoistic/Cooperative Vehicle Interaction Based on Trajectory Planning and Game Theory'",
-      "courses": ["Mechatronics and Robotics, Optimization Techniques, Adaptive and Robust Control"],
-      "description": "Master Thesis: 'Design of Autonomous Vehicles Decision Making Algorithm on Egoistic/Cooperative Vehicle Interaction Based on Trajectory Planning and Game Theory'"
+      "courses": [
+        "Mechatronics and Robotics, Optimization Techniques, Adaptive and Robust Control",
+        "Master Thesis: 'Design of Autonomous Vehicles Decision Making Algorithm on Egoistic/Cooperative Vehicle Interaction Based on Trajectory Planning and Game Theory'"
+      ]
     },
     {
       "institution": "Yogyakarta State University",
@@ -146,9 +147,10 @@
       "startDate": "2012-09-02",
       "endDate": "2016-12-31",
       "score": "3.63/4.00",
-      "highlights": "Bachelor Thesis: 'Temperature Control System On The Paddy Dryer Machine Based On ATMega 8'",
-      "courses": ["Control System, Heat Transfer"],
-      "description": "Bachelor Thesis: 'Temperature Control System On The Paddy Dryer Machine Based On ATMega 8'"
+      "courses": [
+        "Control System, Heat Transfer",
+        "Bachelor Thesis: 'Temperature Control System On The Paddy Dryer Machine Based On ATMega 8'"
+      ]
     }
   ],
   "awards": [  ],
