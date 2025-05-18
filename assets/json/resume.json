@@ -30,12 +30,13 @@
       "startDate": "2023-06-05",
       "endDate": "Present",
       "summary": [
-        "Working on CELL project (integration of multi-instrument)",
+        "Working on CELL project (integration of multi-instrument)"
+      ],
+      "highlights": [
         "Analyze and test every integration process of the project, and make sure every issue/bug is known immediately before the DAT process",
         "Test the instrument and sub-instrument based on request/issue",
         "Collecting project documentation and supporting the process engineer team in terms of production documents (QC, QA, testing, and calibration documents)"
-      ],
-      "highlights": ["Application Engineer, Integration Test, System Optimization"]
+      ]
     },
     {
       "name": "PT Sibernetika Teknologi Industri",
@@ -44,11 +45,12 @@
       "startDate": "2022-01-01",
       "endDate": "2023-05-01",
       "summary": [
-        "Propose working timeline based on work items",
-        "Lead and manage 1-4 engineers in project work",
-        "Project Experience: Autonomous car (simulation to real-world implementation), IoT system (hardware and software), artificial intelligence (palm fruit ripeness classification), process hazard analysis (HAZID/HAZOP), Multi-Use and Multi-User Ventilator, etc."
+        "Lead and manage 1-4 engineers in project work"
       ],
-      "highlights": ["System Integrator, Robotic Engineer"]
+      "highlights": [
+        "Propose working timeline based on work items",
+        "Project Experience: Autonomous car (simulation to real-world implementation), IoT system (hardware and software), artificial intelligence (palm fruit ripeness classification), process hazard analysis (HAZID/HAZOP), Multi-Use and Multi-User Ventilator, etc."
+      ]
     },
     {
       "name": "PT Sibernetika Teknologi Industri",
@@ -57,11 +59,12 @@
       "startDate": "2019-12-01",
       "endDate": "2021-12-31",
       "summary": [
-        "Work under direction of lead engineer and project manager",
+        "Work under direction of lead engineer and project manager"        
+      ],
+      "highlights": [
         "Prepare and propose project Bill of Material (BoM)",
         "Test and integrate project equipment/material (electronic/mechanic assembly)"
-      ],
-      "highlights": ["System Integrator, Robotic Engineer"]
+      ]
     },
     {
       "name": "PT Laysander Technology",
@@ -70,17 +73,18 @@
       "startDate": "2017-03-01",
       "endDate": "2018-11-01",
       "summary": [
-        "Perform maintenance and service routines based on customer's problems",
+        "Perform maintenance and service routines based on customer's problems"
+      ],
+      "highlights": [
         "Install and upgrade customer's machines",
         "Provide operator training"
-      ],
-      "highlights": ["Product Troubleshooting"]
+      ]
     }
   ],
   "volunteer": [
     {
       "organization": "Duta Pro Training & Consulting Public Training",
-      "location": "Bandung, Indonesia (Offline)",
+      "location": "Bandung, Indonesia",
       "position": "Trainer",
       "url": "",
       "startDate": "2022",
@@ -90,8 +94,8 @@
     },
     {
       "organization": "Virtual Workshop: Focus Group Ddiscussion (FGD) Implementasi Penggunaan OviTrap Sebagai Salah Satu Monitoring DBD di Daerah Endemis",
-      "location": "Bandung, Indonesia (Remote)",
-      "position": "Speaker: Implementor Perspective",
+      "location": "Bandung, Indonesia",
+      "position": "Keynote Speaker: Implementor Perspective",
       "url": "",
       "startDate": "2022",
       "endDate": "",
@@ -100,8 +104,8 @@
     },
     {
       "organization": "SIK 2021 Workshop: Development of Autonomous Vehicles",
-      "location": "Bandung, Indonesia (Remote)",
-      "position": "Workshop technical leader and hands-on trainer",
+      "location": "Bandung, Indonesia",
+      "position": "Workshop Technical Leader and Hands-on Trainer",
       "url": "",
       "startDate": "2021",
       "endDate": "",
@@ -110,7 +114,7 @@
     },
     {
       "organization": "Komunitas Migas Indonesia (Private Session): AI in practice for beginner",
-      "location": "Bandung, Indonesia (Remote)",
+      "location": "Bandung, Indonesia",
       "position": "Hands-on Trainer",
       "url": "",
       "startDate": "2020",
@@ -129,6 +133,7 @@
       "startDate": "2019-09-02",
       "endDate": "2021-12-31",
       "score": "3.83/4.00",
+      "highlights": "Master Thesis: 'Design of Autonomous Vehicles Decision Making Algorithm on Egoistic/Cooperative Vehicle Interaction Based on Trajectory Planning and Game Theory'",
       "courses": ["Mechatronics and Robotics, Optimization Techniques, Adaptive and Robust Control"],
       "description": "Master Thesis: 'Design of Autonomous Vehicles Decision Making Algorithm on Egoistic/Cooperative Vehicle Interaction Based on Trajectory Planning and Game Theory'"
     },
@@ -141,6 +146,7 @@
       "startDate": "2012-09-02",
       "endDate": "2016-12-31",
       "score": "3.63/4.00",
+      "highlights": "Bachelor Thesis: 'Temperature Control System On The Paddy Dryer Machine Based On ATMega 8'",
       "courses": ["Control System, Heat Transfer"],
       "description": "Bachelor Thesis: 'Temperature Control System On The Paddy Dryer Machine Based On ATMega 8'"
     }
@@ -187,7 +193,7 @@
     {
       "name": "Patents: Sistem dan Metode Untuk Mendeteksi Nyamuk yang Masuk dan Keluar Ke dan Dari Dalam Alat Pengumpul Telur Nyamuk",
       "publisher": "DJKI Indonesia",
-      "releaseDate": "1916-03-20",
+      "releaseDate": "2022",
       "url": "https://pdki-indonesia.dgip.go.id/link/5030303230323230373935387c706174656e74",
       "summary": "The present invention concerns a system and method for detecting mosquitoes entering and exiting a mosquito egg collection device by employing a motion detection method"
     }
@@ -247,7 +253,7 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Upper Intermediate",
       "icon": ""
     }
   ],
@@ -267,14 +273,15 @@
     {
       "name": "AUTOMATED CELL CULTURE SYSTEM",
       "summary": [
-        "Contribute as System Integration Engineer",
+        "Contribute as System Integration Engineer"        
+      ],
+      "highlights": [
         "Analyze and test every integration process of the project, and make sure every issue/bug is known immediately before the DAT process",
         "Test the instrument/sub-instrument based on request/known issue",
         "Analyze and learn every aspect of the project automation, raise every possible issue that may be occur in the future",
         "Collecting project documentation, make sure that every engineer knowledge is accessible and can be used for future reference",
         "Support the Process Engineer team in terms of production documents (QC, QA, testing, and calibration documents)"
       ],
-      "highlights": [],
       "startDate": "2023",
       "endDate": "2025",
       "url": "https://formulatrix.com/automated-cell-culture/"
@@ -282,14 +289,15 @@
     {
       "name": "AUTONOMOUS COMBINED TERMINAL TRACTOR",
       "summary": [
-        "Contribute as Lead Engineer",
+        "Contribute as Lead Engineer"
+      ],
+      "highlights": [
         "Design and implement navigation and control system (hardware and software architecture) of autonomous combined terminal tractor (CTT)",
         "Coordinate with PT INKA and PT BIMA team to implement wiring and schematic modification design from CTT ECU to drive-by-wire (DBW) and high level controller (HLC) system",
         "Integrate sensor data (camera, IMU, LiDAR, ultrasonic, encoder, and GNSS) and PLC data to HLC using Robot Operating System frameworks (Python)",
         "Build and test the system from architecture to limited environment test (PT INKA) to real environment test (docking area PT TTL)",
         "Implement autonomous algorithm (Stanley control, point stabilization control, docking and undocking control) to HLC and tested at docking area PT TTL"
       ],
-      "highlights": [],
       "startDate": "2021",
       "endDate": "2023",
       "url": ""
@@ -297,7 +305,9 @@
     {
       "name": "PROCESS HAZARD ANALYSIS - HAZID|HAZOP|MHA",
       "summary": [
-        "Contribute as Scriber",
+        "Contribute as Scriber"        
+      ],
+      "highlights": [
         "Client: PT Pertamina (Zona 10) | PT Pertamina EP: Bunyu & Tarakan Field",
         "Serve as the scribe for HAZID/HAZOP/MHA sessions",
         "Analyze plant risks using P&ID, Plot Plant, PFD, and other as-built drawing data during workshops with the PT Pertamina Team.",
@@ -306,7 +316,6 @@
         "Conduct a site survey to examine the facility and identify possible hazard scenarios",
         "Assist the PHA leader during the workshop process."
       ],
-      "highlights": [],
       "startDate": "2022",
       "endDate": "2023",
       "url": ""
@@ -314,7 +323,9 @@
     {
       "name": "IOT DENGUE SURVEILANCE [2nd year]",
       "summary": [
-        "Contribute as Lead Engineer",
+        "Contribute as Lead Engineer"        
+      ],
+      "highlights": [
         "Design and implement mosquito detection system using low cost ESP camera",
         "Implement researcher algorithm (sound classification using convolutional neural network - CNN) to server backend system (node-red)",
         "Update Egg Counting system with image sharpness threshold feature",
@@ -323,7 +334,6 @@
         "Develop Android apps using MIT App Inventor for first prototype to make the maintenance process easier",
         "Update automated charging feature for first prototype from hourly schedule to battery percentage based schedule, make the battery last longer and avoid overheating"
       ],
-      "highlights": [],
       "startDate": "2021",
       "endDate": "2023",
       "url": ""
@@ -331,14 +341,15 @@
     {
       "name": "PALM OIL FRUIT RIPENESS CLASSIFICATION",
       "summary": [
-        "Contribute as Machine Learning Engineer",
+        "Contribute as Machine Learning Engineer"
+      ],
+      "highlights": [
         "Design object detection algorithm to classify palm oil fruit ripeness (overripe, underripe, etc)",
         "Develop the object detection and classification model using transfer learning method and deploy the model to Android (TFLite)",
         "Develop the training server with built-in Jupyter Notebook for training and test purpose, and built in image annotator",
         "Develop farmer tracking system using GNSS data (develop precise positioning algorithm by comparing smartphone GNSS with RTK GNSS data)",
         "Develop palm fruit tracking system using Google Mediapipe"
       ],
-      "highlights": [],
       "startDate": "2021",
       "endDate": "2021",
       "url": ""
@@ -346,7 +357,9 @@
     {
       "name": "STUDY OF AUTONOMOUS RAIL RAPID TRANSIT (ART) IMPLEMENTATION IN SEVERAL BIG CITY IN INDONESIA",
       "summary": [
-        "Contribute as Autonomous Technology System Assistant",
+        "Contribute as Autonomous Technology System Assistant"        
+      ],
+      "highlights": [
         "Assist the Technology System Expert in the study process",
         "Analyze the current development process of ART product in China",
         "Analyze the gap of ART implementation in Indonesia",
@@ -355,7 +368,6 @@
         "Create formal document and report, then present it in weekly progress report",
         "Suggest regulation item to support ART implementation in Indonesia"
       ],
-      "highlights": [],
       "startDate": "2021",
       "endDate": "2021",
       "url": ""
@@ -364,10 +376,11 @@
       "name": "BACNET: AIR CONDITIONING MONITORING SYSTEM [Course Final Project]",
       "summary": [
         "Contribute as System Developer",
+      ],
+      "highlights": [
         "Design and simulate BACNet communication of Air Conditioning (AC) Device using BACnet simulator",
         "Collect the data using python node and node-red back end system, then send the data to Google Cloud Platform"
       ],
-      "highlights": [],
       "startDate": "2021",
       "endDate": "2021",
       "url": ""
@@ -375,7 +388,9 @@
     {
       "name": "MULTI-USE AND MULTI-USER VENTILATOR",
       "summary": [
-        "Contribute as Electrical Engineer",
+        "Contribute as Electrical Engineer"        
+      ],
+      "highlights": [
         "Design critical care ventilator based on bag-valve-mask (volume control)",
         "Design and implement electrical architecture system and integrate it with mechanical system",
         "Develop ventilator using Raspberry Pi as high level controller (node-red as backend) and Arduino as low level controller, the system has IoT System advantage, which allows the user to monitor the ventilator status as long as the ventilator is connected to the networks",
@@ -383,7 +398,6 @@
         "The ventilator prototype has been passed the functional test on Badan Pemeriksa Fasilitas Kesehatan (BPFK)",
         "The ventilator has undergo the pra-clinical test on Pusat Rehabilitasi (PusRehab) Kementerian Pertahanan (KemenHan)"
       ],
-      "highlights": [],
       "startDate": "2020",
       "endDate": "2021",
       "url": ""
@@ -391,13 +405,14 @@
     {
       "name": "SMART SPEAKER",
       "summary": [
-        "Contribute as Electrical Engineer",
+        "Contribute as Electrical Engineer"        
+      ],
+      "highlights": [
         "Design smart speaker electrical system based on mic array and single board computer (Raspberry Pi, NanoPi)",
         "Implement PT Telkom voice recognition to smart speaker prototype",
         "Test the microphone and speaker on the anechoic laboratory (ITB)",
         "Develop recognition and action algorithm based on voice command"
       ],
-      "highlights": [],
       "startDate": "2020",
       "endDate": "2021",
       "url": ""
@@ -405,14 +420,15 @@
     {
       "name": "STUDY OF AUTONOMOUS ELECTRIC VEHICLE IMPLEMENTATION AT THE NEW NATIONAL CAPITAL CITY OF INDONESIA",
       "summary": [
-        "Contribute as Autonomous Technology System Assistant",
+        "Contribute as Autonomous Technology System Assistant"
+      ],
+      "highlights": [
         "Assist the Technology System Expert in the study proces",
         "Analyze the current development process of Autonomous Electric Vehicle worldwide",
         "Study the autonomous vehicle technology and implementation regulation from another country",
         "Summarize the technology benchmark of the autonomous electric vehicle",
         "Create formal document and presentation and then present the study progress in every week"
       ],
-      "highlights": [],
       "startDate": "2020",
       "endDate": "2021",
       "url": ""
@@ -420,13 +436,14 @@
     {
       "name": "WATER LEVEL MONITORING SYSTEM",
       "summary": [
-        "Contribute as Lead Engineer",
+        "Contribute as Lead Engineer"
+      ],
+      "highlights": [
         "Design and implement software and hardware architecture system on water monitoring system in only 2 weeks",
         "Send the water level data every hour using MQTT protocol",
         "Display the time series data using Cayenne Dashboard",
         "The designed system is reliable and maintenance needs is very low"
       ],
-      "highlights": [],
       "startDate": "2020",
       "endDate": "2020",
       "url": ""
@@ -434,13 +451,14 @@
     {
       "name": "MINI AUTOMATED GUIDED VEHICLE (AGV) CONTAINER",
       "summary": [
-        "Contribute as Electrical and Control System Engineer",
+        "Contribute as Electrical and Control System Engineer"
+      ],
+      "highlights": [
         "Design and implement navigation and control system for mini AGV container (1:4 scale)",
         "Build drive-by-wire system/low level controller using Arduino and DC motor driver",
         "Integrate sensor data to high level controller (encoder, IMU, gnss, LiDAR, camera and ultrasonic)",
         "Implement autonomous path following control (Stanley control) and demonstrate it on the limited laboratory environment (POLBAN Bandung area)"
       ],
-      "highlights": [],
       "startDate": "2019",
       "endDate": "2021",
       "url": ""
@@ -448,13 +466,14 @@
     {
       "name": "IOT DENGUE SURVEILANCE [1st Year]",
       "summary": [
-        "Contribute as Machine Learning Engineer",
+        "Contribute as Machine Learning Engineer"        
+      ],
+      "highlights": [
         "Develop Ae. Aegypti egg counting system using computer vision algorithm",
         "Develop mosquito sound classification system using artificial neural network and MFCC algorithm",
         "Deploy the egg counting and mosquito classification to cloud server (node-red backend)",
         "Enhance the algorithm based on researcher needs"
       ],
-      "highlights": [],
       "startDate": "2019",
       "endDate": "2021",
       "url": ""
@@ -462,12 +481,13 @@
     {
       "name": "ITB TOURISM INFORMATION CENTER PROJECT",
       "summary": [
-        "Contribute as Algorithm Developer",
+        "Contribute as Algorithm Developer"        
+      ],
+      "highlights": [
         "Develop ITB building classification by using HOG and ANN algorithm",
         "Combine ANN and DNN algorithm along with HOG extraction feature algorithm to get the best result of ITB building classification",
         "Manually collect the data by using the smartphone and train the model using the collected data"
       ],
-      "highlights": [],
       "startDate": "2019",
       "endDate": "2019",
       "url": ""
@@ -475,11 +495,12 @@
     {
       "name": "PROCESS HAZARD ANALYSIS - HAZID|HAZOP|LOPA",
       "summary": [
-        "Contribute as Scriber Assistant",
+        "Contribute as Scriber Assistant"        
+      ],
+      "highlights": [
         "Client: PT Star Energy Geothermal - Wayang Windu",
         "Help and assist the PHA leader and scriber in the workshop process"
       ],
-      "highlights": [],
       "startDate": "2019",
       "endDate": "2019",
       "url": ""
