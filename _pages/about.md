@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>System Integration Engineer</p>
-    <p>PT Promanufacture Indonesia (Formulatrix)</p>
+    <p>Formulatrix Indonesia</p>
     <p>Salatiga, Indonesia</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
