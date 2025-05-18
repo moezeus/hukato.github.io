@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hukato.github.io/sitemap.xml
+Sitemap: https://moezeus.github.io/sitemap.xml
